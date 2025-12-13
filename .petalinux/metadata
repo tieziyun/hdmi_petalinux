@@ -1,1 +1,5 @@
 PETALINUX_VER=2024.1
+VALIDATE_HW_CHKSUM=1
+HARDWARE_PATH=/home/jack/driver_development_petalinux/project/design_1_wrapper.xsa
+HDF_EXT=xsa
+YOCTO_SDK=
