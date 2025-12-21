@@ -1,0 +1,23 @@
+2025-12-21 15:20:09,647 - [DEBUG] Using xsct from : /home/jack/petalinux/components/xsct/bin/xsct
+2025-12-21 15:20:09,647 - [INFO] Getting Platform info from HW file
+2025-12-21 15:20:09,647 - [DEBUG] Using the soc_family specified by user:zynq
+2025-12-21 15:20:09,651 - [INFO] Generating Kconfig for project
+2025-12-21 15:20:09,651 - [DEBUG] Generating System HW file
+2025-12-21 15:20:09,651 - [DEBUG] xsct -sdx -nodisp /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/components/yocto/layers/meta-xilinx/meta-xilinx-core/gen-machine-conf/gen-machine-scripts/hw-description.tcl plnx_gen_hwsysconf /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/hw-description/system.xsa /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/configs/Kconfig.syshw
+2025-12-21 15:20:15,038 - [DEBUG] 
+WARNING: sdtgen package cannot be loaded. System Device tree commands will not 
+ be available
+INFO: [Hsi 55-2053] elapsed time for repository (/home/jack/petalinux/components/xsct/data/embeddedsw) loading 0 seconds
+
+WARNING: Failed in finding /home/jack/petalinux/components/xsct/data/system-device-tree-xlnx/device_tree/data/device_tree.tcl path.
+
+
+2025-12-21 15:20:15,053 - [DEBUG] Hardware Configuration:
+2025-12-21 15:20:15,053 - [DEBUG] MACHINE     = "None"
+2025-12-21 15:20:15,053 - [DEBUG] DEVICE_ID   = "7z020"
+2025-12-21 15:20:15,053 - [DEBUG] SOC_FAMILY  = "zynq"
+2025-12-21 15:20:15,053 - [DEBUG] SOC_VARIANT = ""
+2025-12-21 15:20:15,068 - [INFO] Menuconfig project
+2025-12-21 15:20:15,069 - [DEBUG] Running CMD: env KCONFIG_CONFIG=/home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/config mconf -s /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/configs/Kconfig
+2025-12-21 15:20:15,075 - [ERROR] Failed to Menuconfig project
+2025-12-21 15:20:15,075 - [ERROR] 
