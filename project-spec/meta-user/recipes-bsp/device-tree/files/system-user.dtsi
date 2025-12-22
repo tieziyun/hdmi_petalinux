@@ -75,6 +75,3 @@
 	xlnx,pixels-per-clock = <1>;
 };
 
-&axi_gpio_hdmi {
-	compatible = "generic-uio";
-};
