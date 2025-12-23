@@ -1,14 +1,14 @@
-2025-12-22 16:54:32,800 - [DEBUG] Using xsct from : /home/jack/petalinux/components/xsct/bin/xsct
-2025-12-22 16:54:32,800 - [INFO] Getting Platform info from HW file
-2025-12-22 16:54:32,800 - [DEBUG] Using the soc_family specified by user:zynq
-2025-12-22 16:54:32,810 - [DEBUG] Hardware Configuration:
-2025-12-22 16:54:32,810 - [DEBUG] MACHINE     = "None"
-2025-12-22 16:54:32,810 - [DEBUG] DEVICE_ID   = "7z020"
-2025-12-22 16:54:32,810 - [DEBUG] SOC_FAMILY  = "zynq"
-2025-12-22 16:54:32,810 - [DEBUG] SOC_VARIANT = ""
-2025-12-22 16:54:32,813 - [INFO] Silentconfig project
-2025-12-22 16:54:32,813 - [DEBUG] Running CMD: yes "" | env KCONFIG_CONFIG=/home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/config conf /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/configs/Kconfig
-2025-12-22 16:54:32,819 - [DEBUG] *
+2025-12-23 09:57:59,799 - [DEBUG] Using xsct from : /home/jack/petalinux/components/xsct/bin/xsct
+2025-12-23 09:57:59,799 - [INFO] Getting Platform info from HW file
+2025-12-23 09:57:59,800 - [DEBUG] Using the soc_family specified by user:zynq
+2025-12-23 09:57:59,808 - [DEBUG] Hardware Configuration:
+2025-12-23 09:57:59,808 - [DEBUG] MACHINE     = "None"
+2025-12-23 09:57:59,808 - [DEBUG] DEVICE_ID   = "7z020"
+2025-12-23 09:57:59,808 - [DEBUG] SOC_FAMILY  = "zynq"
+2025-12-23 09:57:59,808 - [DEBUG] SOC_VARIANT = ""
+2025-12-23 09:57:59,812 - [INFO] Silentconfig project
+2025-12-23 09:57:59,812 - [DEBUG] Running CMD: yes "" | env KCONFIG_CONFIG=/home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/config conf /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/configs/Kconfig
+2025-12-23 09:57:59,817 - [DEBUG] *
 * PetaLinux System Configuration
 *
 ZYNQ Configuration (SYSTEM_ZYNQ) [Y/?] y
@@ -252,9 +252,9 @@ user layer 0 (USER_LAYER_0) []
 #
 # configuration written to /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/config
 #
-2025-12-22 16:54:32,858 - [INFO] Silentconfig rootfs
-2025-12-22 16:54:32,858 - [DEBUG] Running CMD: yes "" | env KCONFIG_CONFIG=/home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/rootfs_config conf /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/rootfsconfigs/Kconfig
-2025-12-22 16:54:32,867 - [DEBUG] *
+2025-12-23 09:57:59,854 - [INFO] Silentconfig rootfs
+2025-12-23 09:57:59,854 - [DEBUG] Running CMD: yes "" | env KCONFIG_CONFIG=/home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/rootfs_config conf /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/rootfsconfigs/Kconfig
+2025-12-23 09:57:59,861 - [DEBUG] *
 * Configuration
 *
 *
@@ -3608,4 +3608,4 @@ Add Users to Sudo users (ADD_USERS_TO_SUDOERS) [petalinux]
 #
 # configuration written to /home/jack/GitHub/HDMI_pynq_petalinux/hdmi_petalinux/project-spec/configs/rootfs_config
 #
-2025-12-22 16:54:32,872 - [INFO] Generating configuration files
+2025-12-23 09:57:59,865 - [INFO] Generating configuration files
